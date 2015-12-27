@@ -1,4 +1,4 @@
-Objects name| Description | type/sise
+|Objects name| Description | type size|
 test.set | Data from X_test.txt | list 2947x561
 train.set | Data from X_train.txt | list 7352x561
 test.subject | Data from subject_test | list 2947x1
